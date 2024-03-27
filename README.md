@@ -1,5 +1,5 @@
-# NanoAssistant
-NanoAssistant is a simple voice assistant developed using Python. It uses OpenAI's GPT-3 API for language understanding and response generation, SoundDevice for recording audio, and pyttsx3 for text-to-speech conversion.
+# Assistant
+Simple voice assistant developed using Python. It uses OpenAI's GPT-3 API for language understanding and response generation, SoundDevice for recording audio, and pyttsx3 for text-to-speech conversion.
 
 ## Features
 - **Voice Recognition**: Listens to user's voice commands and transcribes them to text.
@@ -24,19 +24,16 @@ git clone https://github.com/username/nanoassistant.git
 ```
 
 ## Usage
-You can start the assistant by running the nanoassistant.py script:
+You can start the assistant by running the assistant.py script:
 
 ```
-python nanoassistant.py
+python assistant.py
 ```
 
 The assistant will start listening for your commands. You can speak your commands, and the assistant will respond. To stop the assistant, say "goodbye".
 
 ## License
 This project is licensed under the terms of the MIT license. See the LICENSE file for the full license text.
-
-## Contribution
-Feel free to fork this project, make some changes, and submit a pull request. All contributions are welcome!
 
 ## Disclaimer
 Remember to keep your OpenAI API keys secret and secure, and never expose them in your code or version control system.
