@@ -20,7 +20,7 @@ numpy
 First, clone this repository to your local machine using:
 
 ```
-git clone https://github.com/username/nanoassistant.git
+git clone https://github.com/username/assistant.git
 ```
 
 ## Usage
